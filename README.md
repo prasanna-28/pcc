@@ -1,6 +1,6 @@
 # PCC Compiler
 
-PCC is a compiler implementation for a custom programming language. Has a custom compiler backend which produces assembly.
+PCC is a compiler implementation for a custom programming language. Has a custom compiler backend.
 
 ## Getting Started
 
